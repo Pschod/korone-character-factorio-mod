@@ -1,0 +1,9 @@
+{
+  "name": "korone-character",
+  "version": "0.1.4",
+  "title": "Korone Character",
+  "author": "Mochi",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "CharacterModHelper", "? RitnCharacters"],
+  "description": "This mod adds Inugami Korone as a playable character, using CharacterModHelper.\nThis mod requires a character selector mod, for example RitnCharacters or miniMAXIme."
+}
