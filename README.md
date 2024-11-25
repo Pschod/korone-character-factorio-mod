@@ -7,8 +7,11 @@ The animation sprites were rendered with [Blender 3D](https://www.blender.org/)
 All animations were hand made with love and care, as the model import removed all physics
 
 ## Previews   
+### Armour level 0   
 ![prev_1](https://github.com/user-attachments/assets/86155714-2d63-4a53-ac42-aa466fe4c868)
+### Armour level 1   
 ![prev_2](https://github.com/user-attachments/assets/5839a45c-7280-404e-a795-e26d250322a4)
+### Armour level 2   
 ![prev_3](https://github.com/user-attachments/assets/f69e3a19-dd29-4424-8d38-5972836f0825)
 
 
