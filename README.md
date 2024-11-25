@@ -15,3 +15,4 @@ All animations were hand made with love and care, as the model import removed al
 ## Credits   
 [Link to official base model website](https://www.mmd.hololive.tv/)  
 [Link to helmet as used for armour levels](https://seiga.nicovideo.jp/seiga/im2622994)  
+(At the day of downloading the helmet, October 10th 2024, this link was not region locked)
